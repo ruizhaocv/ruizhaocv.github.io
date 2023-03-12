@@ -20,7 +20,8 @@ Google Scholar Citations:
 <b>Rui Zhao</b>, Wei Li, Zhipeng Hu, Lincheng Li, Zhengxia Zou, Zhenwei Shi, and Changjie Fan<br>
 [<a href="https://arxiv.org/abs/2303.01311">PDF</a>]<br>
 <div style="text-align: justify">
-The first plausible solution to text-driven auto-create game characters. Will be launched in role-playing game <a href="https://h.163.com/">Justice Mobile</a>.
+The first plausible solution to text-driven auto-create game characters. Will be launched in role-playing game <a href="https://h.163.com/">Justice Mobile</a>.<br>
+<b>Media coverage: </b> <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/">[NewScientist] Character creator AI puts Barack Obama – or anyone – in a video game</a>. <br>
 </div>
 </div>
 </div>
