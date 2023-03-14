@@ -20,8 +20,8 @@ Google Scholar Citations:
 <b>Rui Zhao</b>, Wei Li, Zhipeng Hu, Lincheng Li, Zhengxia Zou, Zhenwei Shi, and Changjie Fan<br>
 [<a href="https://arxiv.org/abs/2303.01311">PDF</a>]<br>
 <div style="text-align: justify">
-The first plausible solution to text-driven auto-create game characters. Will be launched in role-playing game <a href="https://h.163.com/">Justice Mobile</a>.<br>
-<b>Media coverage: </b> <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/">[NewScientist] Character creator AI puts Barack Obama – or anyone – in a video game</a>. <br>
+<b>Featured apps: </b> <a href="https://h.163.com/">Justice Mobile</a> (The first plausible solution for text-driven game characters auto-creation.).<br>
+<b>Media coverage: </b> <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/">[NewScientist] Character creator AI puts Barack Obama – or anyone – in a video game</a>, <a href="https://mp.weixin.qq.com/s/I4MVjk7rIZIl0g8OY6xobg">CVPR 2023 | 网易伏羲5篇论文入选 包含文字捏脸等业内首创工作</a>. <br>
 </div>
 </div>
 </div>
