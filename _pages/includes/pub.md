@@ -21,7 +21,9 @@ Google Scholar Citations:
 [<a href="https://arxiv.org/abs/2303.01311">PDF</a>]<br>
 <div style="text-align: justify">
 <b>Featured apps: </b> <a href="https://h.163.com/">Justice Mobile</a> (The first plausible solution for text-driven game characters auto-creation.).<br>
-<b>Media coverage: </b> <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/">[NewScientist] Character creator AI puts Barack Obama – or anyone – in a video game</a>, <a href="https://mp.weixin.qq.com/s/I4MVjk7rIZIl0g8OY6xobg">CVPR 2023 | 网易伏羲5篇论文入选 包含文字捏脸等业内首创工作</a>. <br>
+<b>Media coverage: </b> <a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/">[NewScientist] Character creator AI puts Barack Obama – or anyone – in a video game</a>, 
+<a href="https://mp.weixin.qq.com/s/I4MVjk7rIZIl0g8OY6xobg">CVPR 2023 | 网易伏羲5篇论文入选 包含文字捏脸等业内首创工作</a>,
+<a href="https://mp.weixin.qq.com/s/61ge64M5jI7TqtyBdV9Byw">[游戏日报] 网易伏羲“文字捏脸”方向论文入选CVPR会议，称已应用于《逆水寒手游》</a>. <br>
 </div>
 </div>
 </div>
