@@ -56,7 +56,7 @@ Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
 [[Github ![](https://img.shields.io/github/stars/jiupinjia/SkyAR?style=social)](https://github.com/jiupinjia/SkyAR)]<br>
 <b>Featured apps: </b> <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI">Weights & Biases</a>, a ML developer tool with 100,000+ practitioners.<br>
 <b>Media coverage: </b>
-<a href="https://thenextweb.com/news/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects">[TNW] This open-source AI tool can make your video spectacular with sky replacement effects</a> ||  
+<a href="https://thenextweb.com/news/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects">[TNW] This open-source AI tool can make your video spectacular with sky replacement effects</a> || 
 <a href="https://betterprogramming.pub/the-top-10-trending-machine-learning-projects-of-2020-d923bf31abb7">[Better Programming] The Top 10 Trending ML Projects of 2020</a>. <br>
 <div style="text-align: justify">
 </div>
