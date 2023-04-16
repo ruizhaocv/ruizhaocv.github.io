@@ -4,6 +4,6 @@
 - *2017.09 - 2018.02*, Exchanged student, Instituto Superior Tecnico, Lisbon, Portugal.
 - *2015.09 - 2019.06*, Undergraduate, Beihang University, Beijing, China.
 
-# 📖 Academic service
-- *Conference Reviewer:* ICCV
-- *Journal Reviewer:* IEEE TGRS, IEEE GRSL
+# 📖 Academic Service
+- Conference Reviewer: ICCV
+- Journal Reviewer: IEEE TGRS, IEEE GRSL
