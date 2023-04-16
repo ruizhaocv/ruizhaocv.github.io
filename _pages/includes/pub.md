@@ -7,10 +7,8 @@
 
 # 📝 Selected Publications
 
-Check out full publication list at my [google scholar profile](https://scholar.google.com.hk/citations?user=wYs7vogAAAAJ).
-
-Google Scholar Citations: 
-<a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Check out full publication list at my [google scholar profile](https://scholar.google.com.hk/citations?user=wYs7vogAAAAJ) 
+<a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><a href="images/T2P_teaser.png"><img src='images/T2P_teaser.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
