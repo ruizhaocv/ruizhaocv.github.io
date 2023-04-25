@@ -37,7 +37,7 @@ Check out full publication list at my Google Scholar profile:
 <i>IEEE Transactions on Geoscience and Remote Sensing, 2021</i><br>
 <b>Rui Zhao</b>, Zhenwei Shi, and Zhengxia Zou<br>
 [<a href="https://levir.buaa.edu.cn/publications/Structured_Attention.pdf">PDF</a>]<br>
-🎖 <b>ESI Highly Cited Paper</b>*<br>
+🎖️ <b>ESI Highly Cited Paper</b>*<br>
 <i>* received enough citations to place in the top 1% of the academic field of Geosciences based on publication year. [<a href="https://clarivate.libguides.com/c.php?g=593878&p=4107961">Clarivate</a>]</i><br>
 <div style="text-align: justify">
 </div>
