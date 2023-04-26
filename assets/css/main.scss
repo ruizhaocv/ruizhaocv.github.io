@@ -94,7 +94,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 0px #efefef solid;
-    padding: 0em 0 0em 0;
+    padding: 2em 0 2em 0;
 
     .experience-box-image{
         justify-content: center;
@@ -116,15 +116,15 @@
     @include breakpoint($medium) {
         .experience-box-image{
             justify-content: left;
-            min-width: 30px;
-            max-width: 20%;
+            min-width: 20px;
+            max-width: 30%;
             order: 1;
         }
 
         .experience-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 80%;
+            padding-left: 1em;
+            max-width: 70%;
             order: 2;
         }
 
