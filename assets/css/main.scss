@@ -100,7 +100,7 @@
         justify-content: center;
         display: flex;
         width: 100%;
-        order: 1;
+        order: 2;
         img {
             max-width: 10px;
             box-shadow: 0px 0px 0px #888;
@@ -112,6 +112,25 @@
         max-width: 100%;
         order: 1;
     }
+
+    @include breakpoint($medium) {
+        .experience-box-image{
+            justify-content: left;
+            min-width: 10px;
+            max-width: 100%;
+            order: 1;
+        }
+
+        .experience-box-text{
+            justify-content: left;
+            padding-left: 0em;
+            max-width: 100%;
+            order: 2;
+        }
+
+    }
+
+
 }
 
 $scroll_offset : 2em;
