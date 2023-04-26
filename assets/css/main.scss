@@ -87,6 +87,52 @@
 
 }
 
+.education-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 0px #efefef solid;
+    padding: 0.02em 0 0.02em 0;
+
+    .education-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 30px;
+            box-shadow: 0px 0px 0px #888;
+            object-fit: cover;
+        }
+    }
+
+    .education-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+
+    @include breakpoint($medium) {
+        .education-box-image{
+            justify-content: center;
+            min-width: 20px;
+            max-width: 10%;
+            order: 1;
+        }
+
+        .education-box-text{
+            justify-content: left;
+            padding-left: 0em;
+            max-width: 90%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
 .experience-box {
     display: flex;
     justify-content: left;
@@ -102,7 +148,7 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 60px;
+            max-width: 100px;
             box-shadow: 0px 0px 0px #888;
             object-fit: cover;
         }
@@ -116,15 +162,15 @@
     @include breakpoint($medium) {
         .experience-box-image{
             justify-content: center;
-            min-width: 20px;
-            max-width: 10%;
+            min-width: 50px;
+            max-width: 15%;
             order: 1;
         }
 
         .experience-box-text{
             justify-content: left;
             padding-left: 0em;
-            max-width: 90%;
+            max-width: 85%;
             order: 2;
         }
 
