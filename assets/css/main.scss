@@ -102,7 +102,7 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 60px;
+            max-width: 100px;
             box-shadow: 0px 0px 0px #888;
             object-fit: cover;
         }
@@ -117,13 +117,13 @@
         .experience-box-image{
             justify-content: left;
             min-width: 30px;
-            max-width: 40%;
+            max-width: 100%;
             order: 1;
         }
 
         .experience-box-text{
             justify-content: left;
-            padding-left: 0.2em;
+            padding-left: 0.00001em;
             max-width: 100%;
             order: 2;
         }
