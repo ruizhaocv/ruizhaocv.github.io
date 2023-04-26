@@ -5,7 +5,7 @@
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# 📝 Selected Publications
+# Selected Publications
 
 Check out full publication list at my Google Scholar profile: 
 <a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -37,7 +37,7 @@ Check out full publication list at my Google Scholar profile:
 <i>IEEE Transactions on Geoscience and Remote Sensing, 2021</i><br>
 <b>Rui Zhao</b>, Zhenwei Shi, and Zhengxia Zou<br>
 [<a href="https://levir.buaa.edu.cn/publications/Structured_Attention.pdf">PDF</a>]<br>
-🎖️ <b>ESI Highly Cited Paper</b>*<br>
+🏆️ <b>ESI Highly Cited Paper</b>*<br>
 <i>* received enough citations to place in the top 1% of the academic field of Geosciences based on publication year. [<a href="https://clarivate.libguides.com/c.php?g=593878&p=4107961">Clarivate</a>]</i><br>
 <div style="text-align: justify">
 </div>
