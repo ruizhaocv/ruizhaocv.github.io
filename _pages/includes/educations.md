@@ -5,7 +5,7 @@
 <div class='education-box-text' markdown="1">
 
 <b>Beihang University</b>, Beijing, China.<br>
-M.Phil., Pattern Recognition and Intelligent System, Sep 2019 - Jan 2022.<br>
+M.S., Pattern Recognition and Intelligent System, Sep 2019 - Jan 2022.<br>
 Supervisor: Prof. [Zhenwei Shi](https://levir.buaa.edu.cn/)<br>
 
 </div>
@@ -15,7 +15,7 @@ Supervisor: Prof. [Zhenwei Shi](https://levir.buaa.edu.cn/)<br>
 <div class='education-box-text' markdown="1">
 
 <b>Instituto Superior Tecnico</b>, Lisbon, Portugal<br>
-Exchanged undergraduate, Aerospace Engineering, Sep 2017 - Feb 2018.<br>
+Exchanged undergraduate, Sep 2017 - Feb 2018.<br>
 
 </div>
 </div>
@@ -24,7 +24,7 @@ Exchanged undergraduate, Aerospace Engineering, Sep 2017 - Feb 2018.<br>
 <div class='education-box-text' markdown="1">
 
 <b>Beihang University</b>, Beijing, China.<br>
-B.Eng., Guide Naviation and Control, Sep 2015 - Jul 2019.<br>
+B.S., Image Processing, Sep 2015 - Jul 2019.<br>
 
 </div>
 </div>

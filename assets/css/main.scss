@@ -102,7 +102,7 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 30px;
+            max-width: 50px;
             box-shadow: 0px 0px 0px #888;
             object-fit: cover;
         }
@@ -116,7 +116,7 @@
     @include breakpoint($medium) {
         .education-box-image{
             justify-content: center;
-            min-width: 20px;
+            min-width: 25px;
             max-width: 10%;
             order: 1;
         }
