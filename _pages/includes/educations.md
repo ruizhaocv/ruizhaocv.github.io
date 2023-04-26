@@ -12,7 +12,7 @@ Supervisor: Prof. [Zhenwei Shi](https://levir.buaa.edu.cn/)<br>
 </div>
 </div>
 
-<div class='experience-box'><div class='experience-box-image'><div><a href="images/Beihang_logo.png"><img src='images/Beihang_logo.png' alt="sym" width="100%"></a></div></div>
+<div class='experience-box'><div class='experience-box-image'><div><a href="images/IST_logo.png"><img src='images/Beihang_logo.png' alt="sym" width="100%"></a></div></div>
 <div class='experience-box-text' markdown="1">
 
 <b>Instituto Superior Tecnico</b><br>
