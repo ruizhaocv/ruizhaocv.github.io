@@ -19,6 +19,7 @@ Check out full publication list at my Google Scholar profile:
 [<a href="https://arxiv.org/abs/2303.01311">PDF</a>]<br>
 <div style="text-align: justify">
 <b>Featured apps: </b> <a href="https://h.163.com/">Justice Mobile</a> (The first plausible solution for text-driven game characters auto-creation.).<br>
+
 <b>Media coverage: </b><a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/">[NewScientist] Character creator AI puts Barack Obama – or anyone – in a video game</a> || 
 <a href="https://news.yxrb.net/2023/0314/1372.html">[游戏日报] 网易伏羲“文字捏脸”方向论文入选CVPR会议，称已应用于《逆水寒手游》</a> || 
 <a href="https://mp.weixin.qq.com/s/I4MVjk7rIZIl0g8OY6xobg">CVPR 2023 | 网易伏羲5篇论文入选 包含文字捏脸等业内首创工作</a> ||
@@ -37,6 +38,7 @@ Check out full publication list at my Google Scholar profile:
 <i>IEEE Transactions on Geoscience and Remote Sensing, 2021</i><br>
 <b>Rui Zhao</b>, Zhenwei Shi, and Zhengxia Zou<br>
 [<a href="https://levir.buaa.edu.cn/publications/Structured_Attention.pdf">PDF</a>]<br>
+
 🏆️ <b>ESI Highly Cited Paper</b>*<br>
 <i>* received enough citations to place in the top 1% of the academic field of Geosciences based on publication year. [<a href="https://clarivate.libguides.com/c.php?g=593878&p=4107961">Clarivate</a>]</i><br>
 <div style="text-align: justify">
@@ -52,7 +54,9 @@ Check out full publication list at my Google Scholar profile:
 Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
 [<a href="https://levir.buaa.edu.cn/publications/SkyAR.pdf">PDF</a>][<a href="https://jiupinjia.github.io/skyar/">Page</a>]
 [[Github ![](https://img.shields.io/github/stars/jiupinjia/SkyAR?style=social)](https://github.com/jiupinjia/SkyAR)]<br>
+
 <b>Featured apps: </b> <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI">Weights & Biases</a>, a ML developer tool with 100,000+ practitioners.<br>
+
 <b>Media coverage: </b>
 <a href="https://thenextweb.com/news/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects">[TNW] This open-source AI tool can make your video spectacular with sky replacement effects</a> || 
 <a href="https://betterprogramming.pub/the-top-10-trending-machine-learning-projects-of-2020-d923bf31abb7">[Better Programming] The Top 10 Trending ML Projects of 2020</a>. <br>
