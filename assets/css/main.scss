@@ -94,7 +94,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 0px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 0.2em 0 0.2em 0;
 
     .experience-box-image{
         justify-content: center;
@@ -117,14 +117,14 @@
         .experience-box-image{
             justify-content: left;
             min-width: 20px;
-            max-width: 30%;
+            max-width: 20%;
             order: 1;
         }
 
         .experience-box-text{
             justify-content: left;
-            padding-left: 1em;
-            max-width: 70%;
+            padding-left: 0.2em;
+            max-width: 80%;
             order: 2;
         }
 
