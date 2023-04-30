@@ -16,7 +16,6 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 <center><i>"The Earth is the cradle of the mind, but one cannot live in the cradle forever."</i></center>
 <p align="right"> -- Tsiolkovsky</p>
 
-<div align="center">
-<img src=https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23645.jpg width=60% />
-</div>
+
+![Pale Blue Dot](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23645.jpg)
 <p align="right"> -- "Pale Blue Dot", taken by the Voyager 1, (updated version)</p>
