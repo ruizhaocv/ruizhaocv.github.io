@@ -10,11 +10,16 @@ AI Researcher, Apr 2022 - Now.<br>
 </div>
 </div>
 
-<div class='experience-box'><div class='experience-box-image'><div><a href="images/Ritsumeikan_University_logo.png"><img src='images/Ritsumeikan_University_logo.png' alt="sym" width="100%"></a></div></div>
-<div class='experience-box-text' markdown="1">
+[//]: # (<div class='experience-box'><div class='experience-box-image'><div><a href="images/Ritsumeikan_University_logo.png"><img src='images/Ritsumeikan_University_logo.png' alt="sym" width="100%"></a></div></div>)
 
-<b>Ritsumeikan University</b>, Kyoto, Japan.<br>
-Visiting Student, Jan 2020 - Feb 2020.<br>
+[//]: # (<div class='experience-box-text' markdown="1">)
 
-</div>
-</div>
+[//]: # ()
+[//]: # (<b>Ritsumeikan University</b>, Kyoto, Japan.<br>)
+
+[//]: # (Visiting Student, Jan 2020 - Feb 2020.<br>![img.png]&#40;img.png&#41;)
+
+[//]: # ()
+[//]: # (</div>)
+
+[//]: # (</div>)
