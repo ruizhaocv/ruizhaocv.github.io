@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rui Zhao (赵睿)"
-description              : "AI Researcher at Netease Fuxi AI Lab, Visual Computing Group. <br/>Focusing on computer vision and multimodal."
+description              : "Ph.D. student at Show Lab, NUS. <br/>Focusing on multimodal and AIGC."
 repository               : "ruizhaocv/ruizhaocv.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,12 +26,12 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Rui Zhao (赵睿)"
   avatar           : "images/photo.png"
-  bio              : "Netease Fuxi AI Lab,"
-  location         : "Hangzhou, China"
+  bio              : "National University Singapore"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=wYs7vogAAAAJ"
-  email            : "ruizhaoipc@buaa.edu.cn"
+  email            : "rui.zhao@u.nus.edu"
   researchgate     :
   uri              :
   bitbucket        :
