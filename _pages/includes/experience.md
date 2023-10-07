@@ -5,7 +5,7 @@
 <div class='experience-box-text' markdown="1">
 
 <b>Netease Fuxi AI Lab</b>, Hangzhou, China.<br>
-AI Researcher, Apr 2022 - Now.<br>
+AI Researcher, Apr 2022 - Dec 2022<br>
 
 </div>
 </div>
