@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rui Zhao (赵睿)"
-description              : "Ph.D. student at Show Lab, NUS. <br/>Focusing on multimodal and AIGC."
+description              : #"Ph.D. student at Show Lab, NUS. <br/>Focusing on multimodal and AIGC."
 repository               : "ruizhaocv/ruizhaocv.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,8 +26,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Rui Zhao (赵睿)"
   avatar           : "images/photo.png"
-  bio              : "National University of Singapore"
-  location         : "Singapore"
+  bio              : "Netease Fuxi AI Lab"
+  location         : # "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=wYs7vogAAAAJ"
