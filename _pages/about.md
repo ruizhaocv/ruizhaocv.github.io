@@ -20,15 +20,6 @@ redirect_from:
 <span class='anchor' id='honors'></span>
 {% include_relative includes/honers.md %}
 
-[//]: # (<span class='anchor' id='educations'></span>)
-
-[//]: # ({% include_relative includes/educations.md %})
-
-[//]: # ()
-[//]: # (<span class='anchor' id='experience'></span>)
-
-[//]: # ({% include_relative includes/experience.md %})
-
 <span class='anchor' id='academic-service'></span>
 {% include_relative includes/academic_service.md %}
 
