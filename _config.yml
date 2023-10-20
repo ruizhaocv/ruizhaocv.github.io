@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Rui Zhao (赵睿)"
-description              : #"Ph.D. student at Show Lab, NUS. <br/>Focusing on multimodal and AIGC."
+description              : "Ph.D. student at Show Lab, <br/>NUS."
 repository               : "ruizhaocv/ruizhaocv.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,12 +26,12 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Rui Zhao (赵睿)"
   avatar           : "images/photo.png"
-  bio              : "Netease Fuxi AI Lab"
-  location         : # "Singapore"
+  bio              :
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=wYs7vogAAAAJ"
-  email            : "ruizhaoipc@buaa.edu.cn"
+  email            : "rui.zhao [at] u.nus.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -46,15 +46,15 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "rui-zhao-a46251296"
   dblp             :
-  orcid            : "https://orcid.org/0000-0003-4271-0206"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "ruizhaocv"
   vine             :
   weibo            :
   xing             :

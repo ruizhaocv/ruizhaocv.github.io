@@ -13,6 +13,39 @@
 
 Check out full publication list at my <a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'>Google Scholar profile</a>.
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><a href="images/MotionDirector_teaser.gif"><img src='images/MotionDirector_teaser.gif' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>MotionDirector: Motion Customization of Text-to-Video Diffusion Models</b><br>
+<i>arXiv, 2023</i><br>
+<b>Rui Zhao</b>, Yuchao Gu, Jay Zhangjie Wu, David Junhao Zhang, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou<br>
+[<a href="https://showlab.github.io/MotionDirector/">Project Page</a>][<a href="https://arxiv.org/abs/2310.08465">arXiv</a>]
+[[Github ![](https://img.shields.io/github/stars/showlab/MotionDirector?style=social)](https://github.com/showlab/MotionDirector)]<br>
+<div style="text-align: justify">
+
+</div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><a href="images/Show1_teaser.gif"><img src='images/Show1_teaser.gif' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</b><br>
+<i>arXiv, 2023</i><br>
+David Junhao Zhang*,
+Jay Zhangjie Wu*,
+Jia-Wei Liu*,
+<b>Rui Zhao</b>, Lingmin Ran, Yuchao Gu, Difei Gao, Mike Zheng Shou (* equal contribution)<br>
+[<a href="https://showlab.github.io/Show-1/">Project Page</a>][<a href="https://arxiv.org/abs/2309.15818">arXiv</a>]
+[[Github ![](https://img.shields.io/github/stars/showlab/Show-1?style=social)](https://github.com/showlab/Show-1)]<br>
+<div style="text-align: justify">
+
+</div>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><a href="images/T2P_teaser.png"><img src='images/T2P_teaser.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,7 +88,7 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 <b>Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos</b><br>
 <i>IEEE Transactions on Image Processing, 2022</i><br>
 Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
-[<a href="https://levir.buaa.edu.cn/publications/SkyAR.pdf">PDF</a>][<a href="https://jiupinjia.github.io/skyar/">Page</a>]
+[<a href="https://levir.buaa.edu.cn/publications/SkyAR.pdf">PDF</a>][<a href="https://jiupinjia.github.io/skyar/">Project Page</a>]
 [[Github ![](https://img.shields.io/github/stars/jiupinjia/SkyAR?style=social)](https://github.com/jiupinjia/SkyAR)]<br>
 
 <b>Featured apps: </b> <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI">Weights & Biases</a>, a ML developer tool with 100,000+ practitioners.<br>

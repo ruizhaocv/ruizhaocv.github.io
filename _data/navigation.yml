@@ -12,12 +12,6 @@ main:
   - title: "Honors"
     url: "/#honors"
 
-  - title: "Education"
-    url: "/#educations"
-
-  - title: "Experience"
-    url: "/#experience"
-
   - title: "Academic Service"
     url: "/#academic-service"
 
