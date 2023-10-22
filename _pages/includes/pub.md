@@ -33,10 +33,7 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 
 <b>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</b><br>
 <i>arXiv, 2023</i><br>
-David Junhao Zhang*,
-Jay Zhangjie Wu*,
-Jia-Wei Liu*,
-<b>Rui Zhao</b>, Lingmin Ran, Yuchao Gu, Difei Gao, Mike Zheng Shou (* equal contribution)<br>
+David Junhao Zhang<sup>†</sup>, Jay Zhangjie Wu<sup>†</sup>, Jia-Wei Liu<sup>†</sup>, <b>Rui Zhao</b>, Lingmin Ran, Yuchao Gu, Difei Gao, Mike Zheng Shou (<sup>†</sup>equal contribution)<br>
 [<a href="https://showlab.github.io/Show-1/">Project Page</a>][<a href="https://arxiv.org/abs/2309.15818">arXiv</a>]
 [[Github ![](https://img.shields.io/github/stars/showlab/Show-1?style=social)](https://github.com/showlab/Show-1)]<br>
 <div style="text-align: justify">

@@ -9,7 +9,7 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name">{{ author.name }} (<span style="font-family: 'Xingkai_cus', sans-serif; font-size: 25px; font-weight:100">{{ author.name_cn }}</span>) </h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
@@ -29,13 +29,10 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
       {% if author.email %}
-        <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>
+        <li><i class="fa-solid fa-envelope" style="color: #494e52;"></i> {{ author.email }}</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
-      {% endif %}
-      {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar" style="color: #494e52;"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fa-brands fa-github" style="color: #494e52;"></i> Github</a></li>
@@ -45,6 +42,9 @@
       {% endif %}
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa-brands fa-linkedin" style="color: #494e52;"></i> LinkedIn</a></li>
+      {% endif %}
+      {% if author.orcid %}
+        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -125,13 +125,10 @@
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+        <a href="mailto:{{ author.email }}"><i class="fa-solid fa-envelope" style="color: #494e52;"></i></a>
       {% endif %}
       {% if author.googlescholar %}
-        <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
-      {% endif %}
-      {% if author.orcid %}
-        <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
+        <a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar" style="color: #494e52;"></i></a>
       {% endif %}
       {% if author.github %}
         <a href="https://github.com/{{ author.github }}"><i class="fa-brands fa-github" style="color: #494e52;"></i></a>
@@ -141,6 +138,9 @@
       {% endif %}
       {% if author.linkedin %}
         <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa-brands fa-linkedin" style="color: #494e52;"></i></a>
+      {% endif %}
+      {% if author.orcid %}
+        <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
