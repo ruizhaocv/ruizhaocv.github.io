@@ -1,7 +1,7 @@
 
 ---
 <br/>
-<center><span style="font-family: 'Xingkai_cus', sans-serif; font-size: 27px;">雄关漫道真如铁，而今迈步从头越</span></center>
+<center><span style="font-family: 'Xingkai_cus', sans-serif; font-size: 23px;">雄关漫道真如铁，而今迈步从头越</span></center>
 <center>"The formidable pass and endless road are as unyielding as iron, <br/> but today we stride forward and conquer them.
 "</center>
 <p align="right"> -- translated by ChatGPT</p>
