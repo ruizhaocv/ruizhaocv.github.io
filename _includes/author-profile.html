@@ -11,6 +11,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }} (<span style="font-family: 'Xingkai_cus', sans-serif; font-size: 21px; font-weight:100">{{ author.name_cn }}</span>) </h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.uri %}<p>{{ author.email }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -25,9 +26,9 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
-      {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
-      {% endif %}
+<!--      {% if author.uri %}-->
+<!--        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>-->
+<!--      {% endif %}-->
       {% if author.email %}
         <li><i class="fa-solid fa-envelope" style="color: #494e52;"></i> {{ author.email }}</a></li>
       {% endif %}
@@ -124,9 +125,9 @@
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
-      {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i class="fa-solid fa-envelope" style="color: #494e52;"></i></a>
-      {% endif %}
+<!--      {% if author.email %}-->
+<!--        <a href="mailto:{{ author.email }}"><i class="fa-solid fa-envelope" style="color: #494e52;"></i></a>-->
+<!--      {% endif %}-->
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar" style="color: #494e52;"></i></a>
       {% endif %}
