@@ -1,6 +1,6 @@
 
 # Academic Service
-- Conference Reviewer: ICCV 2023.
+- Conference Reviewer: ICCV 2023, CVPR 2024.
 
 - Journal Reviewer: 
 IEEE Transactions on Geoscience and Remote Sensing; 
