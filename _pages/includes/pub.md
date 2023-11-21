@@ -13,7 +13,7 @@
 
 [//]: # (Check out full publication list at my <a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'>Google Scholar profile</a>.)
 
-
+### Video Generation & Editing:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><a href="images/MotionDirector_teaser.gif"><img src='images/MotionDirector_teaser.gif' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,6 +42,25 @@ David Junhao Zhang<sup>†</sup>, Jay Zhangjie Wu<sup>†</sup>, Jia-Wei Liu<sup
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><a href="images/SkyAR_teaser.png"><img src='images/SkyAR_teaser.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<b>Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos</b><br>
+<i>IEEE Transactions on Image Processing, 2022</i><br>
+Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
+[<a href="https://levir.buaa.edu.cn/publications/SkyAR.pdf">PDF</a>][<a href="https://jiupinjia.github.io/skyar/">Project Page</a>]
+[[Github ![](https://img.shields.io/github/stars/jiupinjia/SkyAR?style=social)](https://github.com/jiupinjia/SkyAR)]<br>
+
+<b>Featured apps: </b> <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI">Weights & Biases</a>, a ML developer tool with 100,000+ practitioners.<br>
+
+<b>Media coverage: </b>
+<a href="https://thenextweb.com/news/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects">[TNW] This open-source AI tool can make your video spectacular with sky replacement effects</a> || 
+<a href="https://betterprogramming.pub/the-top-10-trending-machine-learning-projects-of-2020-d923bf31abb7">[Better Programming] The Top 10 Trending ML Projects of 2020</a>. <br>
+<div style="text-align: justify">
+</div>
+</div>
+</div>
+
+### Avatar Generation:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><a href="images/T2P_teaser.png"><img src='images/T2P_teaser.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +83,7 @@ David Junhao Zhang<sup>†</sup>, Jay Zhangjie Wu<sup>†</sup>, Jia-Wei Liu<sup
 </div>
 </div>
 
-
+### Image Captioning & Generation:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2021</div><a href="images/StructuredAttention.png"><img src='images/StructuredAttention.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <b>High-resolution remote sensing image captioning based on structured attention</b><br>
@@ -74,25 +93,6 @@ David Junhao Zhang<sup>†</sup>, Jay Zhangjie Wu<sup>†</sup>, Jia-Wei Liu<sup
 
 🏆️ <b>ESI Highly Cited Paper</b>*<br>
 <i>* received enough citations to place in the top 1% of the academic field of Geosciences based on publication year. [<a href="https://clarivate.libguides.com/c.php?g=593878&p=4107961">Clarivate</a>]</i><br>
-<div style="text-align: justify">
-</div>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><a href="images/SkyAR_teaser.png"><img src='images/SkyAR_teaser.png' alt="sym" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-<b>Castle in the Sky: Dynamic Sky Replacement and Harmonization in Videos</b><br>
-<i>IEEE Transactions on Image Processing, 2022</i><br>
-Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
-[<a href="https://levir.buaa.edu.cn/publications/SkyAR.pdf">PDF</a>][<a href="https://jiupinjia.github.io/skyar/">Project Page</a>]
-[[Github ![](https://img.shields.io/github/stars/jiupinjia/SkyAR?style=social)](https://github.com/jiupinjia/SkyAR)]<br>
-
-<b>Featured apps: </b> <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI">Weights & Biases</a>, a ML developer tool with 100,000+ practitioners.<br>
-
-<b>Media coverage: </b>
-<a href="https://thenextweb.com/news/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects">[TNW] This open-source AI tool can make your video spectacular with sky replacement effects</a> || 
-<a href="https://betterprogramming.pub/the-top-10-trending-machine-learning-projects-of-2020-d923bf31abb7">[Better Programming] The Top 10 Trending ML Projects of 2020</a>. <br>
 <div style="text-align: justify">
 </div>
 </div>
