@@ -3,8 +3,9 @@
 - Conference Reviewer: ICCV 2023, CVPR 2024, ECCV 2024.
 
 - Journal Reviewer: 
-IEEE Transactions on Geoscience and Remote Sensing; 
-ISPRS Journal of Photogrammetry and Remote Sensing; 
-IEEE Geoscience and Remote Sensing Letters; 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing; 
-Remote Sensing.
+IEEE Transactions on Geoscience and Remote Sensing (Q1); 
+ISPRS Journal of Photogrammetry and Remote Sensing (Q1); 
+IEEE Geoscience and Remote Sensing Letters (Q1); 
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (Q1); 
+Remote Sensing (Q1);
+International Journal of Digital Earth (Q1).
