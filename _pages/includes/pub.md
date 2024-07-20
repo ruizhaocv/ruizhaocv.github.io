@@ -14,11 +14,11 @@
 [//]: # (Check out full publication list at my <a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'>Google Scholar profile</a>.)
 
 ### Video Generation & Editing:
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><a href="images/MotionDirector_teaser.gif"><img src='images/MotionDirector_teaser.gif' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><a href="images/MotionDirector_teaser.gif"><img src='images/MotionDirector_teaser.gif' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>MotionDirector: Motion Customization of Text-to-Video Diffusion Models</b><br>
-<i>arXiv, 2023</i><br>
+<i>Proceedings of the European Conference on Computer Vision, 2024</i><br>
 <b>Rui Zhao</b>, Yuchao Gu, Jay Zhangjie Wu, David Junhao Zhang, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou<br>
 [<a href="https://showlab.github.io/MotionDirector/">Project Page</a>][<a href="https://arxiv.org/abs/2310.08465">arXiv</a>]
 [[Github ![](https://img.shields.io/github/stars/showlab/MotionDirector?style=social)](https://github.com/showlab/MotionDirector)]<br>
