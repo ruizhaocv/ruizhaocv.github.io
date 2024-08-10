@@ -98,17 +98,6 @@ Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2022</div><a href="images/RSICC_teaser.png"><img src='images/RSICC_teaser.png' alt="sym" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-<b>Remote Sensing Image Change Captioning With Dual-Branch Transformers: A New Method and a Large Scale Dataset</b><br>
-<i>IEEE Transactions on Geoscience and Remote Sensing, 2022</i><br>
-Chenyang Liu, <b>Rui Zhao</b>, Hao Chen, Zhengxia Zou, and Zhenwei Shi<br>
-[<a href="https://levir.buaa.edu.cn/publications/ChangeCaptioning.pdf">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/RSICC">Dataset</a>] [<a href="https://github.com/Chen-Yang-Liu/RSICC">Code</a>] 
-<div style="text-align: justify">
-</div>
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><a href="images/RST2I.png"><img src='images/RST2I.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <b>Text to Remote Sensing Image Generation With Structured Generative Adversarial Networks</b><br>
