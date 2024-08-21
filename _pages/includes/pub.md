@@ -22,8 +22,9 @@
 <b>Rui Zhao</b>, Yuchao Gu, Jay Zhangjie Wu, David Junhao Zhang, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou<br>
 [<a href="https://showlab.github.io/MotionDirector/">Project Page</a>][<a href="https://arxiv.org/abs/2310.08465">arXiv</a>]
 [[Github ![](https://img.shields.io/github/stars/showlab/MotionDirector?style=social)](https://github.com/showlab/MotionDirector)]<br>
+🏆️ <b>Oral Presentation</b>
 <div style="text-align: justify">
-🏆️ <b>Oral Presentation<br>
+  
 </div>
 </div>
 </div>
