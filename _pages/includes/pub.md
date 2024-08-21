@@ -23,7 +23,7 @@
 [<a href="https://showlab.github.io/MotionDirector/">Project Page</a>][<a href="https://arxiv.org/abs/2310.08465">arXiv</a>]
 [[Github ![](https://img.shields.io/github/stars/showlab/MotionDirector?style=social)](https://github.com/showlab/MotionDirector)]<br>
 <div style="text-align: justify">
-
+🏆️ <b>Oral Presentation<br>
 </div>
 </div>
 </div>
