@@ -1,5 +1,5 @@
 # News
-- *2024.07*: MotionDirector got accepted for oral presentation by ECCV 2024.
+- *2024.07*: MotionDirector got accepted for oral presentation at ECCV 2024.
 - *2023.10*: Foundational T2V generation model Show-1 [![](https://img.shields.io/github/stars/showlab/Show-1?style=social)](https://github.com/showlab/Show-1) released!
 - *2023.07*: Invited talk at OPPO Research Institute, "Text-Driven Avatar Auto-Creation".
 - *2023.04*: A collection of papers on video diffusion models: Awesome-Video-Diffusion [![](https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion?style=social)](https://github.com/showlab/Awesome-Video-Diffusion).
