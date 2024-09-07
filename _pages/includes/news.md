@@ -1,8 +1,10 @@
 # News
-- *2023.10*: Two co-authored papers, [Mix-of-Show](https://showlab.github.io/Mix-of-Show/) and [DatasetDM](https://weijiawu.github.io/DatasetDM_page/), accepted by NeurIPS 2023.
+- *2024.07*: Two papers, MotionDirector (Oral) and DragAnything, accepted by ECCV 2024.
+- *2024.02*: Three papers, VideoSwap, X-Adapter, and DynVideo-E, accepted by CVPR 2024.
+- *2023.10*: Two papers, Mix-of-Show and DatasetDM, accepted by NeurIPS 2023.
 - *2023.07*: Invited talk at OPPO Research Institute, "Text-Driven Avatar Auto-Creation".
 - *2023.03*: One first-authored paper accepted by CVPR 2023.
-- *2022.08*: One first-authored paper selected as [ESI Highly Cited Paper](https://clarivate.libguides.com/c.php?g=593878&p=4107961).
+- *2022.08*: One first-authored paper selected as ESI Highly Cited Paper.
 - *2022.07*: One paper accepted by IEEE Transactions on Image Processing (TIP).
-- *2022.01*: Awarded the Outstanding Graduates of Beijing (Top 1%).
+- *2022.01*: Awarded the Outstanding Graduates of Beijing.
 - *2021.09*: Awarded the National Scholarship.
