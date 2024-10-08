@@ -29,7 +29,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><a href="images/Show1_teaser.gif"><img src='images/Show1_teaser.gif' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><a href="images/Show1_teaser.gif"><img src='images/Show1_teaser.gif' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</b><br>
