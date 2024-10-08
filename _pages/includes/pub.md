@@ -29,11 +29,11 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><a href="images/Show1_teaser.gif"><img src='images/Show1_teaser.gif' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><a href="images/Show1_teaser.gif"><img src='images/Show1_teaser.gif' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation</b><br>
-<i>arXiv, 2023</i><br>
+<i>International Journal of Computer Vision, 2024</i><br>
 David Junhao Zhang<sup>†</sup>, Jay Zhangjie Wu<sup>†</sup>, Jia-Wei Liu<sup>†</sup>, <b>Rui Zhao</b>, Lingmin Ran, Yuchao Gu, Difei Gao, Mike Zheng Shou (<sup>†</sup>equal contribution)<br>
 [<a href="https://showlab.github.io/Show-1/">Project Page</a>][<a href="https://arxiv.org/abs/2309.15818">arXiv</a>]
 [[Github ![](https://img.shields.io/github/stars/showlab/Show-1?style=social)](https://github.com/showlab/Show-1)]<br>
