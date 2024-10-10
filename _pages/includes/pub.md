@@ -13,7 +13,22 @@
 
 [//]: # (Check out full publication list at my <a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'>Google Scholar profile</a>.)
 
-### Video Generation & Editing:
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><a href="images/EvolveDirector.png"><img src='images/EvolveDirector.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models</b><br>
+<i>The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024</i><br>
+<b>Rui Zhao</b>, Hangjie Yuan, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Jay Wu, David Zhang, Yingya Zhang, Mike Zheng Shou.<br>
+[<a href="https://arxiv.org/abs/2410.07133">arXiv</a>][<a href="https://huggingface.co/ruizhaocv/Edgen">Hugging Face</a>]
+[[Github ![](https://img.shields.io/github/stars/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)]<br>
+<div style="text-align: justify">
+  
+</div>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><a href="images/MotionDirector_teaser.gif"><img src='images/MotionDirector_teaser.gif' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
