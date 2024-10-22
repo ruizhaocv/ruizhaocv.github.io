@@ -39,7 +39,7 @@
 [[Github ![](https://img.shields.io/github/stars/showlab/MotionDirector?style=social)](https://github.com/showlab/MotionDirector)]<br>
 🎙️ <b>Oral</b> Presentation, Acceptance Rate: 2.3%. <br>
 🤗 Featured in Hugging Face "[Spaces of the Week 🔥](https://huggingface.co/spaces)" trending list. <br>
-📃 Featured in "The 40 most cited papers of ECCV 2024" [list](https://mp.weixin.qq.com/s/5FyBKVH4rc608MC84_-RdA).
+📃 Featured in "Top 40 most cited papers of ECCV 2024" [list](https://mp.weixin.qq.com/s/5FyBKVH4rc608MC84_-RdA) by AIR-SUN.
 <div style="text-align: justify">
   
 </div>
