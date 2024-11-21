@@ -1,6 +1,6 @@
 
 # Academic Service
-- Conference Reviewer: ICCV 2023, CVPR 2024, ECCV 2024, NeurIPS 2024, ICLR 2025.
+- Conference Reviewer: ICCV 2023, CVPR 2024-2025, ECCV 2024, NeurIPS 2024, ICLR 2025.
 
 - Journal Reviewer: 
 IEEE Transactions on Geoscience and Remote Sensing (Q1); 
