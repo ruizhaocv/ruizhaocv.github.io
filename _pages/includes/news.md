@@ -6,5 +6,5 @@
 - *2023.03*: Our paper for avatar auto-creation was accepted by CVPR 2023.
 - *2022.08*: One first-authored paper selected as ESI Highly Cited Paper.
 - *2022.07*: Castle in the Sky [![](https://img.shields.io/github/stars/jiupinjia/SkyAR?style=social)](https://github.com/jiupinjia/SkyAR) accepted by IEEE Transactions on Image Processing.
-- *2022.01*: Awarded the Outstanding Graduates of Beijing.
+- *2022.01*: Awarded the Distinguished Graduates of Beijing.
 - *2021.09*: Awarded the National Scholarship.
