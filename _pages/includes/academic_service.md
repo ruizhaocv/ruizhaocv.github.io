@@ -2,7 +2,8 @@
 # Academic Service
 - Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR.
 
-- Journal Reviewer: 
+- Journal Reviewer:
+IEEE Transactions on Image Processing (Q1);
 IEEE Transactions on Geoscience and Remote Sensing (Q1); 
 ISPRS Journal of Photogrammetry and Remote Sensing (Q1); 
 IEEE Geoscience and Remote Sensing Letters (Q1); 
