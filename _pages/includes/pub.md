@@ -113,5 +113,25 @@ Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2022</div><a href="images/RST2I.png"><img src='images/RST2I.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<b>Text to Remote Sensing Image Generation With Structured Generative Adversarial Networks</b><br>
+<i>IEEE Geoscience and Remote Sensing Letters, 2022</i><br>
+<b>Rui Zhao</b>, Zhenwei Shi<br>
+[<a href="https://levir.buaa.edu.cn/publications/Text-to-Remote-Sensing-Image_Generation_With_Structured_Generative_Adversarial_Networks.pdf">PDF</a>]
+<div style="text-align: justify">
+</div>
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2019</div><a href="images/E-CEM.png"><img src='images/E-CEM.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<b>Ensemble-based cascaded constrained energy minimization for hyperspectral target detection</b><br>
+<i>Remote Sensing, 2019</i><br>
+<b>Rui Zhao</b>, Zhenwei Shi, Zhengxia Zou, and Zhou Zhang<br>
+[<a href="https://levir.buaa.edu.cn/publications/RemoteSensing2019-Zhao-Shi-Zou-Zhang.pdf">PDF</a>][<a href="https://github.com/ruizhaocv/E_CEM-for-Hyperspectral-Target-Detection">Code</a>] 
+<div style="text-align: justify">
+</div>
+</div>
+</div>
 
