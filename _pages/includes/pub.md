@@ -13,6 +13,21 @@ Check out full publication list at my Google Scholar profile:
 [//]: # (Check out full publication list at my <a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'>Google Scholar profile</a>.)
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><a href="images/EvolveDirector.png"><img src='images/DoraCycle_teaser.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles</b><br>
+<i>The IEEE Conference on Computer Vision and Pattern Recognition, 2025</i><br>
+<b>Rui Zhao</b>, Weijia Mao, Mike Zheng Shou.<br>
+[<a href="https://arxiv.org/abs/2410.07133">arXiv</a>]
+[[Github ![](https://img.shields.io/github/stars/showlab/DoraCycle?style=social)](https://github.com/showlab/DoraCycle)]<br>
+<div style="text-align: justify">
+  
+</div>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><a href="images/EvolveDirector.png"><img src='images/EvolveDirector.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
