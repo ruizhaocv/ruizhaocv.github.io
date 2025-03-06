@@ -19,7 +19,7 @@ Check out full publication list at my Google Scholar profile:
 <b>DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles</b><br>
 <i>The IEEE Conference on Computer Vision and Pattern Recognition, 2025</i><br>
 <b>Rui Zhao</b>, Weijia Mao, Mike Zheng Shou.<br>
-[<a href="https://arxiv.org/abs/2410.07133">arXiv</a>]
+[<a href="https://arxiv.org/abs/2503.03651">arXiv</a>]
 [[Github ![](https://img.shields.io/github/stars/showlab/DoraCycle?style=social)](https://github.com/showlab/DoraCycle)]<br>
 <div style="text-align: justify">
   
