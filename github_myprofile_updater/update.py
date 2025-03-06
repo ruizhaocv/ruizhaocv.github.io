@@ -12,4 +12,4 @@ if __name__ == '__main__':
         f.write(_homepage)
         f.write('\n\n')
         # f.write(_news)
-        f.write('<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=ruizhaocv&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight">')
+        f.write('<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=ruizhaocv&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=default">')
