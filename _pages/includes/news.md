@@ -1,5 +1,6 @@
 # News
-- *2024.10*: One paper, EvolveDirector, got accepted by NeurIPS 2024.
+- *2025.02*: DoraCycle got accepted by CVPR 2025.
+- *2024.09*: EvolveDirector got accepted by NeurIPS 2024.
 - *2024.07*: Two papers, MotionDirector (Oral) and DragAnything, got accepted by ECCV 2024.
 - *2024.02*: Three papers, VideoSwap, X-Adapter, and DynVideo-E, got accepted by CVPR 2024. 
 - *2023.10*: Foundational T2V generation model Show-1 [![](https://img.shields.io/github/stars/showlab/Show-1?style=social)](https://github.com/showlab/Show-1) released!
