@@ -78,4 +78,7 @@ Check out full publication list at my Google Scholar profile:
 <a href="https://automaton-media.com/articles/newsjp/20230314-240584/">[AUTOMATON] Researchers report technological breakthroughs in using AI to “make characters by asking with words”.</a> (in Japanese, for English version, please refer to <a href="https://www.newsdirectory3.com/researchers-report-technological-breakthroughs-in-using-ai-to-make-characters-by-asking-with-words-a-wide-range-of-text-can-be-identified-from-animals-to-celebrities-automaton/">reprint 1</a> and <a href="https://www.archyde.com/researchers-report-on-the-technological-achievements-of-using-ai-to-make-characters-just-by-asking-with-words-a-wide-range-of-text-can-be-specified-from-animals-to-celebrities-automaton/">reprint 2</a>) || 
 <a href="https://nazology.net/archives/123271">[Nazology] "Character creation support AI" that creates the ideal face specified in the sentence is now available!</a> .<br>
 
-
+<div style="text-align: justify">
+</div>
+</div>
+</div>
