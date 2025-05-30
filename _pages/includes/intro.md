@@ -4,4 +4,3 @@ I received my bachelor's degree and master's degree from the Image Processing Ce
 
 My current research interests lie in multimodal and GenAI, with a particular focus on training, evolving, and customizing foundational generation models.
 
-<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=ruizhaocv&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=default">
