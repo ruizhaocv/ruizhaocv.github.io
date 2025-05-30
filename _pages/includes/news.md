@@ -1,3 +1,8 @@
+<pre>
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=ruizhaocv&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=default">
+
+</pre>
+
 # News
 - *2025.02*: DoraCycle got accepted by CVPR 2025.
 - *2024.09*: EvolveDirector got accepted by NeurIPS 2024.
