@@ -1,6 +1,6 @@
 
 # Academic Service
-- Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, SIGGRAPH, SIGGRAPH Asia.
+- Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, SIGGRAPH, SIGGRAPH Asia, AAAI.
 
 - Journal Reviewer:
 IEEE Transactions on Image Processing (Q1);
