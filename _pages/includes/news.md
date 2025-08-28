@@ -1,5 +1,5 @@
 # News
-- *2025.07*: Invited talk at WAIC 2025, "Advancing Visual Generation".
+- *2025.07*: Invited talk at WAIC 2025, Shanghai, "Advancing Visual Generation".
 - *2025.02*: DoraCycle got accepted by CVPR 2025.
 - *2024.09*: EvolveDirector got accepted by NeurIPS 2024.
 - *2024.07*: Two papers, MotionDirector (Oral) and DragAnything, got accepted by ECCV 2024.
