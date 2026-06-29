@@ -4,3 +4,7 @@ I received my bachelor's degree and master's degree from the Image Processing Ce
 
 My current research interests lie in multimodal and GenAI, with a particular focus on training, evolving, and customizing foundational generation models.
 
+I am always happy to connect with people who are interested in collaboration on multimodal AI and generative modeling.
+
+I am also currently on the job market and actively seeking full-time opportunities where I can help build impactful AI systems.
+

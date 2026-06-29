@@ -61,11 +61,11 @@ Junchao Yi<sup>*</sup>, <b>Rui Zhao</b><sup>*</sup>, Jiahao Tang<sup>*</sup>, We
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML FoGen Workshop 2026</div><a href="https://raw.githubusercontent.com/showlab/Dream.exe/main/assets/task_suite.png"><img src='https://raw.githubusercontent.com/showlab/Dream.exe/main/assets/task_suite.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML FoGen 2026</div><a href="https://raw.githubusercontent.com/showlab/Dream.exe/main/assets/task_suite.png"><img src='https://raw.githubusercontent.com/showlab/Dream.exe/main/assets/task_suite.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?</b><br>
-<i>The International Conference on Machine Learning FoGen Workshop, 2026</i><br>
+<i>The International Conference on Machine Learning, FoGen Workshop, 2026</i><br>
 <b>Rui Zhao</b><sup>*</sup>, Kaiming Yang<sup>*</sup>, Jifeng Zhu, Siyang Chen, Ziqi Wang, Weijia Wu, Kevin Qinghong Lin, Heng Wang, Mike Zheng Shou.<br>
 [<a href="https://arxiv.org/abs/2606.04811">arXiv</a>]
 [[Github](https://github.com/showlab/Dream.exe)]<br>
