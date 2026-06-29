@@ -69,7 +69,7 @@ Junchao Yi<sup>*</sup>, <b>Rui Zhao</b><sup>*</sup>, Jiahao Tang<sup>*</sup>, We
 <b>Rui Zhao</b><sup>*</sup>, Kaiming Yang<sup>*</sup>, Jifeng Zhu, Siyang Chen, Ziqi Wang, Weijia Wu, Kevin Qinghong Lin, Heng Wang, Mike Zheng Shou.<br>
 [<a href="https://arxiv.org/abs/2606.04811">arXiv</a>]
 [[Github](https://github.com/showlab/Dream.exe)]<br>
-<b>Spotlight</b>. <sup>*</sup>equal contribution.<br>
+<span style="color: #FF0B00FF;"><b>Spotlight</b></span>. <sup>*</sup>equal contribution.<br>
 <div style="text-align: justify">
 
 </div>
@@ -115,9 +115,9 @@ Junchao Yi<sup>*</sup>, <b>Rui Zhao</b><sup>*</sup>, Jiahao Tang<sup>*</sup>, We
 <b>Rui Zhao</b>, Yuchao Gu, Jay Zhangjie Wu, David Junhao Zhang, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou<br>
 [<a href="https://showlab.github.io/MotionDirector/">Project Page</a>][<a href="https://arxiv.org/abs/2310.08465">arXiv</a>]
 [[Github ![](https://img.shields.io/github/stars/showlab/MotionDirector?style=social)](https://github.com/showlab/MotionDirector)]<br>
-🎙️ <b>Oral</b> Presentation, Acceptance Rate: 2.3%. <br>
-🤗 Featured in Hugging Face "[Spaces of the Week 🔥](https://huggingface.co/spaces)" trending list. <br>
-📃 Featured in "Top 40 most cited papers of ECCV 2024" [list](https://mp.weixin.qq.com/s/5FyBKVH4rc608MC84_-RdA) by AIR-SUN.
+🎙️ <span style="color: #FF0B00FF;"><b>Oral</b></span> Presentation, <span style="color: #FF0B00FF;">Acceptance Rate: 2.3%.</span> <br>
+🤗 <span style="color: #FF0B00FF;"><b>Featured</b></span> in Hugging Face "<a href="https://huggingface.co/spaces" style="color: #FF0B00FF;">Spaces of the Week 🔥</a>" trending list. <br>
+📃 <span style="color: #FF0B00FF;"><b>Featured</b></span> in "<span style="color: #FF0B00FF;">Top 40 most cited papers of ECCV 2024</span>" [list](https://mp.weixin.qq.com/s/5FyBKVH4rc608MC84_-RdA) by AIR-SUN.
 <div style="text-align: justify">
 
 </div>
@@ -147,9 +147,9 @@ David Junhao Zhang<sup>†</sup>, Jay Zhangjie Wu<sup>†</sup>, Jia-Wei Liu<sup
 <b>Rui Zhao</b>, Wei Li, Zhipeng Hu, Lincheng Li, Zhengxia Zou, Zhenwei Shi, and Changjie Fan<br>
 [<a href="https://arxiv.org/abs/2303.01311">PDF</a>]<br>
 <div style="text-align: justify">
-<b>Featured apps: </b> <a href="https://h.163.com/">Justice Mobile</a> (The first plausible solution for text-driven game characters auto-creation.).<br>
+<span style="color: #FF0B00FF;"><b>Featured apps: </b></span> <a href="https://h.163.com/">Justice Mobile</a> (The first plausible solution for text-driven game characters auto-creation.).<br>
 
-<b>Media coverage: </b><a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/">[NewScientist] Character creator AI puts Barack Obama – or anyone – in a video game</a> ||
+<span style="color: #FF0B00FF;"><b>Media coverage: </b></span><a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/">[NewScientist] Character creator AI puts Barack Obama – or anyone – in a video game</a> ||
 <a href="https://news.yxrb.net/2023/0314/1372.html">[游戏日报] 网易伏羲“文字捏脸”方向论文入选CVPR会议，称已应用于《逆水寒手游》</a> ||
 <a href="https://mp.weixin.qq.com/s/I4MVjk7rIZIl0g8OY6xobg">CVPR 2023 | 网易伏羲5篇论文入选 包含文字捏脸等业内首创工作</a> ||
 <a href="https://automaton-media.com/articles/newsjp/20230314-240584/">[AUTOMATON] Researchers report technological breakthroughs in using AI to “make characters by asking with words”.</a> (in Japanese, for English version, please refer to <a href="https://www.newsdirectory3.com/researchers-report-technological-breakthroughs-in-using-ai-to-make-characters-by-asking-with-words-a-wide-range-of-text-can-be-identified-from-animals-to-celebrities-automaton/">reprint 1</a> and <a href="https://www.archyde.com/researchers-report-on-the-technological-achievements-of-using-ai-to-make-characters-just-by-asking-with-words-a-wide-range-of-text-can-be-specified-from-animals-to-celebrities-automaton/">reprint 2</a>) ||
@@ -168,9 +168,9 @@ Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
 [<a href="https://levir.buaa.edu.cn/publications/SkyAR.pdf">PDF</a>][<a href="https://jiupinjia.github.io/skyar/">Project Page</a>]
 [[Github ![](https://img.shields.io/github/stars/jiupinjia/SkyAR?style=social)](https://github.com/jiupinjia/SkyAR)]<br>
 
-<b>Featured apps: </b> <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI">Weights & Biases</a>, a ML developer tool with 100,000+ practitioners.<br>
+<span style="color: #FF0B00FF;"><b>Featured apps: </b></span> <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI">Weights & Biases</a>, a ML developer tool with 100,000+ practitioners.<br>
 
-<b>Media coverage: </b>
+<span style="color: #FF0B00FF;"><b>Media coverage: </b></span>
 <a href="https://thenextweb.com/news/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects">[TNW] This open-source AI tool can make your video spectacular with sky replacement effects</a> ||
 <a href="https://betterprogramming.pub/the-top-10-trending-machine-learning-projects-of-2020-d923bf31abb7">[Better Programming] The Top 10 Trending ML Projects of 2020</a>. <br>
 <div style="text-align: justify">
@@ -185,7 +185,7 @@ Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
 <b>Rui Zhao</b>, Zhenwei Shi, and Zhengxia Zou<br>
 [<a href="https://levir.buaa.edu.cn/publications/Structured_Attention.pdf">PDF</a>]<br>
 
-🏆️ <b>ESI Highly Cited Paper</b>*<br>
+🏆️ <span style="color: #FF0B00FF;"><b>ESI Highly Cited Paper</b></span>*<br>
 <i>* received enough citations to place in the top 1% of the academic field of Geosciences based on publication year. [<a href="https://clarivate.libguides.com/c.php?g=593878&p=4107961">Clarivate</a>]</i><br>
 <div style="text-align: justify">
 </div>
