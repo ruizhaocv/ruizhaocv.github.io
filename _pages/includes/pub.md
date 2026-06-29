@@ -116,8 +116,8 @@ Junchao Yi<sup>*</sup>, <b>Rui Zhao</b><sup>*</sup>, Jiahao Tang<sup>*</sup>, We
 [<a href="https://showlab.github.io/MotionDirector/">Project Page</a>][<a href="https://arxiv.org/abs/2310.08465">arXiv</a>]
 [[Github ![](https://img.shields.io/github/stars/showlab/MotionDirector?style=social)](https://github.com/showlab/MotionDirector)]<br>
 🎙️ <span style="color: #FF0B00FF;"><b>Oral</b></span> Presentation, <span style="color: #FF0B00FF;">Acceptance Rate: 2.3%.</span> <br>
-🤗 <span style="color: #FF0B00FF;"><b>Featured</b></span> in Hugging Face "<a href="https://huggingface.co/spaces" style="color: #FF0B00FF;">Spaces of the Week 🔥</a>" trending list. <br>
-📃 <span style="color: #FF0B00FF;"><b>Featured</b></span> in "<span style="color: #FF0B00FF;">Top 40 most cited papers of ECCV 2024</span>" [list](https://mp.weixin.qq.com/s/5FyBKVH4rc608MC84_-RdA) by AIR-SUN.
+🤗 Featured in Hugging Face "<a href="https://huggingface.co/spaces" style="color: #FF0B00FF;">Spaces of the Week 🔥</a>" trending list. <br>
+📃 Featured in "<span style="color: #FF0B00FF;">Top 40 most cited papers of ECCV 2024</span>" [list](https://mp.weixin.qq.com/s/5FyBKVH4rc608MC84_-RdA) by AIR-SUN.
 <div style="text-align: justify">
 
 </div>
