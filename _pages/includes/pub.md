@@ -34,7 +34,7 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 <b>Glance: Accelerating Diffusion Models with 1 Sample</b><br>
 <i>Proceedings of the European Conference on Computer Vision, 2026</i><br>
 Zhuobai Dong<sup>*</sup>, <b>Rui Zhao</b><sup>*</sup>, Songjie Wu, Suyang Hou, Junchao Yi, Linjie Li, Zhengyuan Yang, Lijuan Wang, Alex Jinpeng Wang.<br>
-[<a href="https://arxiv.org/html/2512.02899v1">arXiv</a>]
+[<a href="https://arxiv.org/html/2512.02899v1">arXiv</a>][<a href="https://zhuobaidong.github.io/Glance/">Project Page</a>]
 [[Github](https://github.com/CSU-JPG/Glance)]<br>
 <sup>*</sup>equal contribution.<br>
 <div style="text-align: justify">
@@ -51,7 +51,8 @@ Zhuobai Dong<sup>*</sup>, <b>Rui Zhao</b><sup>*</sup>, Songjie Wu, Suyang Hou, J
 <i>Proceedings of the European Conference on Computer Vision, 2026</i><br>
 Junchao Yi<sup>*</sup>, <b>Rui Zhao</b><sup>*</sup>, Jiahao Tang<sup>*</sup>, Weixian Lei, Linjie Li, Qisheng Su, Zhengyuan Yang, Lijuan Wang, Xiaofeng Zhu, Alex Jinpeng Wang.<br>
 [<a href="https://arxiv.org/abs/2604.06757">arXiv</a>]
-[<a href="https://csu-jpg.github.io/FlowInOne.github.io/">Project Page</a>]<br>
+[<a href="https://csu-jpg.github.io/FlowInOne.github.io/">Project Page</a>]
+[[Github](https://github.com/CSU-JPG/FlowInOne)]<br>
 <sup>*</sup>equal contribution.<br>
 <div style="text-align: justify">
 
