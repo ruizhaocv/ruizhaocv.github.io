@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -23,6 +23,18 @@ redirect_from:
 <span class='anchor' id='academic-service'></span>
 {% include_relative includes/academic_service.md %}
 
+
+---
+<br/>
+<center><i>"The Earth is the cradle of the mind, but one cannot live in the cradle forever."</i></center>
+<p align="right"> -- Tsiolkovsky</p>
+
+<center><img src="images/blue_dot.jpg" width="512"></center>
+
+[//]: # (![Pale Blue Dot]&#40;https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23645.jpg&#41;)
+<p align="right"> -- "Pale Blue Dot", taken by the Voyager 1</p>
+
+<br/>
 
 ---
 
