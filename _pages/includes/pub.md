@@ -13,6 +13,69 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><a href="images/P-Flow_method.png"><img src='images/P-Flow_method.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>P-Flow: Prompting Visual Effects Generation</b><br>
+<i>The IEEE Conference on Computer Vision and Pattern Recognition, 2026</i><br>
+<b>Rui Zhao</b>, Mike Zheng Shou.<br>
+[<a href="https://arxiv.org/abs/2603.22091">arXiv</a>]
+[[Github](https://github.com/showlab/P-Flow)]<br>
+<div style="text-align: justify">
+
+</div>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><a href="https://raw.githubusercontent.com/CSU-JPG/Glance/main/assets/teaser.png"><img src='https://raw.githubusercontent.com/CSU-JPG/Glance/main/assets/teaser.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Glance: Accelerating Diffusion Models with 1 Sample</b><br>
+<i>Proceedings of the European Conference on Computer Vision, 2026</i><br>
+Zhuobai Dong<sup>*</sup>, <b>Rui Zhao</b><sup>*</sup>, Songjie Wu, Suyang Hou, Junchao Yi, Linjie Li, Zhengyuan Yang, Lijuan Wang, Alex Jinpeng Wang.<br>
+[<a href="https://arxiv.org/html/2512.02899v1">arXiv</a>]
+[[Github](https://github.com/CSU-JPG/Glance)]<br>
+<sup>*</sup>equal contribution.<br>
+<div style="text-align: justify">
+
+</div>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><a href="https://csu-jpg.github.io/FlowInOne.github.io/static/images/teaser.png"><img src='https://csu-jpg.github.io/FlowInOne.github.io/static/images/teaser.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>FlowInOne: Unifying Multimodal Generation as Image-in, Image-out Flow Matching</b><br>
+<i>Proceedings of the European Conference on Computer Vision, 2026</i><br>
+Junchao Yi<sup>*</sup>, <b>Rui Zhao</b><sup>*</sup>, Jiahao Tang<sup>*</sup>, Weixian Lei, Linjie Li, Qisheng Su, Zhengyuan Yang, Lijuan Wang, Xiaofeng Zhu, Alex Jinpeng Wang.<br>
+[<a href="https://arxiv.org/abs/2604.06757">arXiv</a>]
+[<a href="https://csu-jpg.github.io/FlowInOne.github.io/">Project Page</a>]<br>
+<sup>*</sup>equal contribution.<br>
+<div style="text-align: justify">
+
+</div>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML FoGen Workshop 2026</div><a href="https://raw.githubusercontent.com/showlab/Dream.exe/main/assets/task_suite.png"><img src='https://raw.githubusercontent.com/showlab/Dream.exe/main/assets/task_suite.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?</b><br>
+<i>The International Conference on Machine Learning FoGen Workshop, 2026</i><br>
+<b>Rui Zhao</b><sup>*</sup>, Kaiming Yang<sup>*</sup>, Jifeng Zhu, Siyang Chen, Ziqi Wang, Weijia Wu, Kevin Qinghong Lin, Heng Wang, Mike Zheng Shou.<br>
+[<a href="https://arxiv.org/abs/2606.04811">arXiv</a>]
+[[Github](https://github.com/showlab/Dream.exe)]<br>
+<b>Spotlight</b>. <sup>*</sup>equal contribution.<br>
+<div style="text-align: justify">
+
+</div>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><a href="images/EvolveDirector.png"><img src='images/DoraCycle_teaser.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -20,9 +83,9 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 <i>The IEEE Conference on Computer Vision and Pattern Recognition, 2025</i><br>
 <b>Rui Zhao</b>, Weijia Mao, Mike Zheng Shou.<br>
 [<a href="https://arxiv.org/abs/2503.03651">arXiv</a>]
-[[Github ![](https://img.shields.io/github/stars/showlab/DoraCycle?style=social)](https://github.com/showlab/DoraCycle)]<br>
+[[Github](https://github.com/showlab/DoraCycle)]<br>
 <div style="text-align: justify">
-  
+
 </div>
 </div>
 </div>
@@ -35,9 +98,9 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 <i>The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024</i><br>
 <b>Rui Zhao</b>, Hangjie Yuan, Yujie Wei, Shiwei Zhang, Yuchao Gu, Lingmin Ran, Xiang Wang, Jay Wu, David Zhang, Yingya Zhang, Mike Zheng Shou.<br>
 [<a href="https://arxiv.org/abs/2410.07133">arXiv</a>][<a href="https://huggingface.co/ruizhaocv/Edgen">Hugging Face</a>]
-[[Github ![](https://img.shields.io/github/stars/showlab/EvolveDirector?style=social)](https://github.com/showlab/EvolveDirector)]<br>
+[[Github](https://github.com/showlab/EvolveDirector)]<br>
 <div style="text-align: justify">
-  
+
 </div>
 </div>
 </div>
@@ -55,7 +118,7 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 🤗 Featured in Hugging Face "[Spaces of the Week 🔥](https://huggingface.co/spaces)" trending list. <br>
 📃 Featured in "Top 40 most cited papers of ECCV 2024" [list](https://mp.weixin.qq.com/s/5FyBKVH4rc608MC84_-RdA) by AIR-SUN.
 <div style="text-align: justify">
-  
+
 </div>
 </div>
 </div>
@@ -85,10 +148,10 @@ David Junhao Zhang<sup>†</sup>, Jay Zhangjie Wu<sup>†</sup>, Jia-Wei Liu<sup
 <div style="text-align: justify">
 <b>Featured apps: </b> <a href="https://h.163.com/">Justice Mobile</a> (The first plausible solution for text-driven game characters auto-creation.).<br>
 
-<b>Media coverage: </b><a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/">[NewScientist] Character creator AI puts Barack Obama – or anyone – in a video game</a> || 
-<a href="https://news.yxrb.net/2023/0314/1372.html">[游戏日报] 网易伏羲“文字捏脸”方向论文入选CVPR会议，称已应用于《逆水寒手游》</a> || 
+<b>Media coverage: </b><a href="https://www.newscientist.com/article/2362730-character-creator-ai-puts-barack-obama-or-anyone-in-a-video-game/">[NewScientist] Character creator AI puts Barack Obama – or anyone – in a video game</a> ||
+<a href="https://news.yxrb.net/2023/0314/1372.html">[游戏日报] 网易伏羲“文字捏脸”方向论文入选CVPR会议，称已应用于《逆水寒手游》</a> ||
 <a href="https://mp.weixin.qq.com/s/I4MVjk7rIZIl0g8OY6xobg">CVPR 2023 | 网易伏羲5篇论文入选 包含文字捏脸等业内首创工作</a> ||
-<a href="https://automaton-media.com/articles/newsjp/20230314-240584/">[AUTOMATON] Researchers report technological breakthroughs in using AI to “make characters by asking with words”.</a> (in Japanese, for English version, please refer to <a href="https://www.newsdirectory3.com/researchers-report-technological-breakthroughs-in-using-ai-to-make-characters-by-asking-with-words-a-wide-range-of-text-can-be-identified-from-animals-to-celebrities-automaton/">reprint 1</a> and <a href="https://www.archyde.com/researchers-report-on-the-technological-achievements-of-using-ai-to-make-characters-just-by-asking-with-words-a-wide-range-of-text-can-be-specified-from-animals-to-celebrities-automaton/">reprint 2</a>) || 
+<a href="https://automaton-media.com/articles/newsjp/20230314-240584/">[AUTOMATON] Researchers report technological breakthroughs in using AI to “make characters by asking with words”.</a> (in Japanese, for English version, please refer to <a href="https://www.newsdirectory3.com/researchers-report-technological-breakthroughs-in-using-ai-to-make-characters-by-asking-with-words-a-wide-range-of-text-can-be-identified-from-animals-to-celebrities-automaton/">reprint 1</a> and <a href="https://www.archyde.com/researchers-report-on-the-technological-achievements-of-using-ai-to-make-characters-just-by-asking-with-words-a-wide-range-of-text-can-be-specified-from-animals-to-celebrities-automaton/">reprint 2</a>) ||
 <a href="https://nazology.net/archives/123271">[Nazology] "Character creation support AI" that creates the ideal face specified in the sentence is now available!</a> .<br>
 
 
@@ -107,7 +170,7 @@ Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
 <b>Featured apps: </b> <a href="https://wandb.ai/wandb/skyAR/reports/The-Sky-Is-In-Our-Grasp---VmlldzozMjY0NDI">Weights & Biases</a>, a ML developer tool with 100,000+ practitioners.<br>
 
 <b>Media coverage: </b>
-<a href="https://thenextweb.com/news/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects">[TNW] This open-source AI tool can make your video spectacular with sky replacement effects</a> || 
+<a href="https://thenextweb.com/news/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects">[TNW] This open-source AI tool can make your video spectacular with sky replacement effects</a> ||
 <a href="https://betterprogramming.pub/the-top-10-trending-machine-learning-projects-of-2020-d923bf31abb7">[Better Programming] The Top 10 Trending ML Projects of 2020</a>. <br>
 <div style="text-align: justify">
 </div>
@@ -144,7 +207,7 @@ Zhengxia Zou, <b>Rui Zhao</b>, Tianyang Shi, Shuang Qiu, and Zhenwei Shi<br>
 <b>Ensemble-based cascaded constrained energy minimization for hyperspectral target detection</b><br>
 <i>Remote Sensing, 2019</i><br>
 <b>Rui Zhao</b>, Zhenwei Shi, Zhengxia Zou, and Zhou Zhang<br>
-[<a href="https://levir.buaa.edu.cn/publications/RemoteSensing2019-Zhao-Shi-Zou-Zhang.pdf">PDF</a>][<a href="https://github.com/ruizhaocv/E_CEM-for-Hyperspectral-Target-Detection">Code</a>] 
+[<a href="https://levir.buaa.edu.cn/publications/RemoteSensing2019-Zhao-Shi-Zou-Zhang.pdf">PDF</a>][<a href="https://github.com/ruizhaocv/E_CEM-for-Hyperspectral-Target-Detection">Github</a>]
 <div style="text-align: justify">
 </div>
 </div>
