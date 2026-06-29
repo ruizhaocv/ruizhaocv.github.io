@@ -4,7 +4,7 @@ Building **omni world models**: generative models that can understand, simulate,
 
 
 - **Intervention**: intervening in the virtual world in human desired ways ([MotionDirector](https://showlab.github.io/MotionDirector/), [P-Flow](https://github.com/showlab/P-Flow)).
-- **Autonomy**: advancing generative models to evolve and self-evlove([EvolveDirector](https://github.com/showlab/EvolveDirector), [DoraCycle](https://github.com/showlab/DoraCycle)).
+- **Autonomy**: advancing generative models to evolve and self-evlove ([EvolveDirector](https://github.com/showlab/EvolveDirector), [DoraCycle](https://github.com/showlab/DoraCycle)).
 - **Omni-modality**: unifying vision and language within a unified modeling framework ([DoraCycle](https://github.com/showlab/DoraCycle), [FlowInOne](https://csu-jpg.github.io/FlowInOne.github.io/)).
 - **Efficiency & Downstream tasks**: making diffusion models faster ([Glance](https://zhuobaidong.github.io/Glance/)), and utilizing the world knowlege in downtream tasks ([Dream.exe](https://github.com/showlab/Dream.exe)).
 
