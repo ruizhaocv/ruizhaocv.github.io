@@ -27,7 +27,7 @@ Check out full publication list at my <a href='https://scholar.google.com/citati
 </div>
 </div>
 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><a href="https://raw.githubusercontent.com/CSU-JPG/Glance/main/assets/teaser.png"><img src='https://raw.githubusercontent.com/CSU-JPG/Glance/main/assets/teaser.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,7 +59,7 @@ Junchao Yi<sup>*</sup>, <b>Rui Zhao</b><sup>*</sup>, Jiahao Tang<sup>*</sup>, We
 </div>
 </div>
 </div>
-
+ -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML FoGen 2026</div><a href="https://raw.githubusercontent.com/showlab/Dream.exe/main/assets/task_suite.png"><img src='https://raw.githubusercontent.com/showlab/Dream.exe/main/assets/task_suite.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
